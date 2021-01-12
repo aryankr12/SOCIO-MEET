@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+######################################################################################
+
+The Zip file has been uploaded to my google drive 
+you can request for the access..
+After extracting the file type npm start in terminal to spin up the react server in client dir. and nodemonapp in the server to start the server.
+
+NOTE: change monogoDB URI in server key.js to your own URI
+NOTE: Also if the react server didn't start delete node_modules folder and reinstall it by typing npm install in the client folder then again npm start.
+
+Enjoy it try to add some more feature to the existing project.
+Thank you.
+
+Link: https://drive.google.com/file/d/1o92-Nsl65Fj0b-8-xawHsQgdGPmxWfF7/view?usp=sharing
+##############################################################################################
