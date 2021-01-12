@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+body{
+  background-image: url(./image-from-rawpixel-id-586255-jpeg.jpg);
+  background-position: center;
+  background-size : cover;
+  background-repeat : no-repeat;
+}
+
+/*SignIn and Sign Up*/
+a{
+  color: #313536 !important;
+}
+
+.brand-logo{
+  font-family: 'Kaushan Script', cursive;
+  color:#313536 !important;
+}
+.mycard{
+  margin-top: 50px
+}
+/*.mycard-signup{
+  margin-top: 50px;
+  background-image: url(./image-from-rawpixel-id-586255-jpeg\ \(1\).jpg);
+  background-position: center;
+  background-size : cover;
+  background-repeat : no-repeat;
+  
+}*/
+.auth-card{
+  padding : 20px;
+  text-align : center;
+  max-width : 345px;
+  margin    : 78px auto 18px 43px;
+}
+.signup-card{
+  
+  padding : 20px;
+  text-align : center;
+  max-width : 354px;
+  margin    : 50px 44px 10px auto;
+}
+
+h2{
+  font-family: 'Redressed', cursive;
+  font-size: 3.5rem;
+  line-height: 88%;
+  margin: 2.3733333333rem 0 1.424rem 0;
+}
+
+h5{
+  font-family: 'Redressed', cursive;
+}
+
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid #01579b !important;
+    box-shadow: 0 1px 0 0 #01579b !important;
+}
+
+.input-field .prefix.active {
+  color: #01579b;
+}
+
+/*Profile*/
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.item{
+  width:30%;
+}
+
+/*home*/
+.home{
+  max-width: 400px;
+  height:max-content;
+  margin: 20px auto;
+}
+.resposive-img{
+  max-width: 100%;
+  height: auto;
+}
+
+.material-icons:hover{
+  cursor: pointer;
+}
+
+.collection-item{
+  width: 100%;
+}
